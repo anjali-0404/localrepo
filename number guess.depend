@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701955003 source:d:\c coding\number guess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

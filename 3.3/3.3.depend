@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693304381 source:d:\anjali ce\3.3\main.c
+	<stdio.h>
+	<stdlib.h>
+

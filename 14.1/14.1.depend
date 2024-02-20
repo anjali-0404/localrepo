@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702370858 source:d:\arhan\14.1\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
